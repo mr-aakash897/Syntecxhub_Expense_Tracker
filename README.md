@@ -7,7 +7,7 @@ This project demonstrates practical usage of core React hooks along with clean U
 ---
 
 ## 🚀 Live Preview
-> (Optional – add Netlify/Vercel link here later)
+> (Optional)
 
 ---
 

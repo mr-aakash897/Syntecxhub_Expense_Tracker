@@ -1,16 +1,102 @@
-# React + Vite
+# Syntecxhub Expense Tracker 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Expense Tracker** application built using **React** and **React Hooks** as part of the **Syntecxhub Web Development Internship Program**.
 
-Currently, two official plugins are available:
+This project demonstrates practical usage of core React hooks along with clean UI design and performance optimization techniques.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Preview
+> (Optional – add Netlify/Vercel link here later)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Vite)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Hooks
+
+---
+
+## 📌 Features
+
+- Add and view expenses in real time
+- Responsive and modern UI
+- Gradient heading with clean layout
+- Optimized rendering for better performance
+
+---
+
+## 🧠 React Hooks Used
+
+| Hook | Purpose |
+|-----|--------|
+| `useState` | Manage form inputs and expenses list |
+| `useEffect` | Fetch initial data from a mock API |
+| `useRef` | Auto-focus input fields |
+| `useMemo` | Optimize total expense calculation |
+| `useCallback` | Prevent unnecessary re-renders |
+
+---
+
+## 📂 Project Structure
+
+Syntecxhub_Expense_Tracker/<br>
+├── public/<br>
+├── src/<br>
+│ ├── components/<br>
+│ │ ├── ExpenseForm.jsx<br>
+│ │ └── ExpenseList.jsx<br>
+│ ├── styles/<br>
+│ │ └── App.css<br>
+│ ├── App.jsx<br>
+│ └── main.jsx<br>
+├── package.json<br>
+└── README.md<br>
+
+---
+
+## 🧪 How to Run Locally
+
+1. Clone the repository
+```
+git clone https://github.com/your-username/Syntecxhub_Expense_Tracker.git
+```
+2. Navigate to the project folder
+```
+cd Syntecxhub_Expense_Tracker
+```
+3. Install dependencies
+```
+npm install
+```
+4. Start the development server
+```
+npm run dev
+```
+5. Open in browser:
+```
+http://localhost:5173/
+```
+## 🎯 Internship Requirements Covered
+✔ React-based project<br>
+✔ Heavy usage of Hooks<br>
+✔ Clean UI & responsive design<br>
+✔ GitHub repository submission<br>
+✔ Practical implementation<br>
+
+## 🏢 Internship Program
+**Company**: Syntecxhub<br>
+**Domain**: Web Development<br>
+**Internship Type**: Project-based<br>
+
+## 📬 Contact
+🌐 Website: https://www.syntecxhub.com
+
+📧 Email: info@syntecxhub.com
+
+## 📜 License
+This project is created for educational and internship purposes.

@@ -81,6 +81,10 @@ npm run dev
 ```
 http://localhost:5173/
 ```
+
+## 📸 Screenshots
+![alt text](Expense_Tracker_ss.png)
+
 ## 🎯 Internship Requirements Covered
 ✔ React-based project<br>
 ✔ Heavy usage of Hooks<br>
